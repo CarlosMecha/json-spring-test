@@ -1,0 +1,13 @@
+*.class
+*.swp
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/.settings
+/.project
+/site
+.classpath
+.project
+.springBeans
