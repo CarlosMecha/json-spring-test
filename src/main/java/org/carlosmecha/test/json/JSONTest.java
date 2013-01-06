@@ -1,12 +1,3 @@
-/**
- * Copyright (c) 2012 Owl Systems. All rights reserved.
- * 
- * This program and the accompanying materials are made under the
- * terms of the Owl Distribution License v. 1.0 which accompanies this distribution.
- * The Owl Distribution License is available at
- * http://www.owl-systems.com/legal/odl-v10.html
- * 
- */
 package org.carlosmecha.test.json;
 
 /**
